@@ -1,0 +1,52 @@
+name: health_care
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^0.7.0
+  firebase_auth: ^0.20.0
+  cloud_firestore: ^0.16.0+1
+  font_awesome_flutter: ^8.8.1
+  shared_preferences: ^0.5.7+2
+  circular_profile_avatar: ^1.0.6
+  agora_rtc_engine: ^3.3.3
+  permission_handler: ^5.0.1
+  webview_flutter: ^0.3.20+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/momCare.png
+    - assets/images/formImg.png
+    - assets/images/babyCare.png
+    - assets/images/e-consultation.png
+    - assets/images/consultation.png
+    - assets/images/safe-pregnancy.png
+    - assets/images/doctorArt.png
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700

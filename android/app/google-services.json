@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278477324060",
+    "project_id": "healt-care-a5ed5",
+    "storage_bucket": "healt-care-a5ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278477324060:android:7fbff28a6305d82580c4d9",
+        "android_client_info": {
+          "package_name": "com.example.health_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278477324060-h2kalgrgkb5nci35in9maqc2vpjd01oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr_FQqGNnT9qO-_8M9kjgSnQo0g6fS9oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278477324060-h2kalgrgkb5nci35in9maqc2vpjd01oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
